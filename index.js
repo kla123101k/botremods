@@ -4,7 +4,7 @@ const setupCMD = "!role"
 let initialMessage = `**React to the messages below to receive the associated role. If you would like to remove the role, simply remove your reaction! (When bot online you can use reaction)**`;
 const roles = ["Member"];
 const reactions = ["🔑"];
-const botToken = "NTMwNzU4MzM0ODE1NTM1MTA1.DztLhw.y-OekWJciaUbhmkIK4klhY4BEQI";
+const botToken = "";
 /*You'll have to set this yourself; read more
                     here https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token*/
 
