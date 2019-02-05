@@ -69,7 +69,3 @@ bot.on('raw', event => {
 
     }
 });
-
-bot.on("ready", function() {
-    console.log("Bot W1x is Ready");
-});
